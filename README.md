@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
   </a>
   <a href="https://www.w3schools.com/excel/index.php">
-    <img src="https:/img.shields.io/badge/Excel-217346??style=for-the-badge&logo=excel&logoColor=white" alt="Excel"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Excel"/>
   </a>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
