@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Justin McLain
-
+<h1 align="center">
+  Hi there 👋 I'm Justin McLain
+</h1>
 <!--
 **JustinMcLain1/JustinMcLain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
