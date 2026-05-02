@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Connect with me:
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin/justin-m-122958197/)
+https://img.shields.io/badge/-LinkedIn-blue%3Flogo%3Dlinkedin?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjustin-m-122958197%2F
 
 ## Languages and Tools
